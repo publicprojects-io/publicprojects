@@ -1,3 +1,3 @@
 # Public Projects
 
-Work In Progress.
+Public Projects: open source for the public good.
