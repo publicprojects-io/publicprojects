@@ -1,3 +1,3 @@
 # Public Projects
 
-Public Projects: open source for the public good.
+Public Projects: public open source for the global good.
